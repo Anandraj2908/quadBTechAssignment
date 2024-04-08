@@ -1,7 +1,7 @@
 Below is a simple README.md template for your GitHub repository to explain how to run a Vite + React project:
 
 
-# Vite + React Project
+# Todo List (Vite + React)
 
 This repository contains a simple project setup using Vite and React.
 
