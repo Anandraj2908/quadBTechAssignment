@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#root {
+    background-color: antiquewhite;
+    min-height: 100vh;
+    height:100%;
+  }
+  
