@@ -1,6 +1,6 @@
 Below is a simple README.md template for your GitHub repository to explain how to run a Vite + React project:
 
-```markdown
+
 # Vite + React Project
 
 This repository contains a simple project setup using Vite and React.
@@ -43,9 +43,3 @@ Follow these steps to run the project on your local machine:
 5. **Open the Application**
 
    Open your browser and navigate to [http://localhost:5173] to view the running application.
-
-
-
-
-
-```
