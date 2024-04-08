@@ -21,11 +21,11 @@ function TaskInput() {
             placeholder='Enter a task'
             value={task}
             onChange={(e)=> setTask(e.target.value)}
-            className='bg-gray-800 rounded text-gray-100 py-2 px-3  '
+            className='bg-gray-800 rounded text-gray-100 py-2 px-3 m-2 '
         />
         <button 
             type='submit'
-            className='text-white bg-gray-800 rounded text-gray-100 py-2 px-3  '
+            className='text-white bg-gray-800 rounded text-gray-100 py-2 px-3 m-2 '
             >Add Task</button>
     </form>
   )

@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Todo List</h1>
+      <h1 className='text-3xl'>Todo List</h1>
       <TaskInput/>
       <TaskList/>
     </>
